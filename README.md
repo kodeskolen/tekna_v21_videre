@@ -5,7 +5,11 @@
 Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Kodeskolen](https://simulakodeskolen.no/). 
 
 ## Materiale
-Materialer vil legges ut etterhvert
+### Repetisjon
+ * Repetisjonsoppgavene finner du [her](repetisjon/Repetisjonsoppgaver.pdf)
+ * Fasiten til repetisjonsoppgavene finner du [her](repetisjon/Repetisjonsoppgaver_med_fasit.pdf)
+
+Denne siden oppdateres med materiale etter hvert som det legges ut.
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
