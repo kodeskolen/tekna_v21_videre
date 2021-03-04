@@ -13,7 +13,7 @@ Denne siden oppdateres med materiale etter hvert som det legges ut.
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
-Kurset fokuserer på programmeringseksempler som er relevante for matematikk og realfag. Sammen skal vi se på hvordan man kan estimere pi ved å dra nytte av sammenhengen mellom dartkast og Monte Carlo-integrasjon. Vi skal simulere og visualisere befolkningsvekst med løkker og plotteverktøy og bruke interaktive brytere i Jupyter Notebook til å utforske forholdet mellom momentanfart og numerisk derivasjon. Kurset vil starte med en rask repetisjon av variabler, løkker, betingelser og funksjoner med relafagsrelevante eksempler.
+Kurset fokuserer på programmeringseksempler som er relevante for matematikk og realfag. Sammen skal vi se på hvordan man kan estimere pi ved å dra nytte av sammenhengen mellom dartkast og Monte Carlo-integrasjon. Vi skal simulere og visualisere befolkningsvekst med løkker og plotteverktøy og bruke interaktive brytere i Jupyter Notebook til å utforske forholdet mellom momentanfart og numerisk derivasjon. Kurset vil starte med en rask repetisjon av funksjoner, arrays og plotting med relafagsrelevante eksempler.
 
 ## Hva er anbefalte forkunnskaper?
 Kurset er en fortsettelse av et introduksjonskurs og antar at du er kjent med grunneleggende programmeringskonsepter (variabler, løkker, betingelser, funksjoner og plotting).
