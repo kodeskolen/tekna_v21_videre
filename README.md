@@ -9,6 +9,14 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
  * Repetisjonsoppgavene finner du [her](repetisjon/Repetisjonsoppgaver.pdf)
  * Fasiten til repetisjonsoppgavene finner du [her](repetisjon/Repetisjonsoppgaver_med_fasit.pdf)
 
+### Dag 1
+ * Kompendiet for befolkningsvekstopplegget finner du [her](dag1/befolkningsvekst_kompendie.pdf)
+ * Kompendiet for pi estimering med dartkast du [her](dag1/pi_estimering_kompendie.pdf)
+
+### Bonusmateriale
+ * Bonusoppgaver sortert etter fag på VGS finner du [her](bonus/faglig_relevante_oppgaver.pdf)
+ * Fasit for bonusoppgavene finner du [her](bonus/faglig_relevante_oppgaver_fasit.pdf)
+
 Denne siden oppdateres med materiale etter hvert som det legges ut.
 
 ## Kursets innhold:
