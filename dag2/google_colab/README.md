@@ -10,6 +10,7 @@ Hvis vi vil kjøre koden vår med Google Colab, så trenger vi endre noen småti
 ## Numerisk derivasjon:
  * [FORKLARING OG FASIT - Numerisk derivasjon](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/FORKLARING%20OG%20FASIT%20-%20Numerisk%20derivasjon.ipynb)
  * [LIVE KODING - Numerisk derivasjon](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/LIVE%20KODING%20-%20Numerisk%20derivasjon.ipynb)
- * [BONUS - Mer om numerisk derivasjon](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/BONUS%20-%20Mer%20om%20numerisk%20derivasjon.ipynb)
+ * [FORKLARING OG FASIT - Mer om numerisk derivasjon](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/FORKLARING%20OG%20FASIT%20-%20Mer%20om%20numerisk%20derivasjon.ipynb)
+ * [LIVE KODING - Mer om numerisk derivasjon](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/LIVE%20KODING%20-%20Mer%20om%20numerisk%20derivasjon.ipynb)
  * [BONUS - Derivere bilder](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/BONUS%20-%20Derivere%20bilder.ipynb)
  * [BONUS - Numerisk derivasjon, kjerneregel og lyd](https://colab.research.google.com/github/kodeskolen/tekna_v21_videre/blob/main/dag2/google_colab/Numerisk%20derivasjon/BONUS%20-%20Numerisk%20derivasjon,%20kjerneregel%20og%20lyd.ipynb)
