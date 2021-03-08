@@ -12,6 +12,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 ### Dag 1
  * Kompendiet for befolkningsvekstopplegget finner du [her](dag1/befolkningsvekst_kompendie.pdf)
  * Kompendiet for pi estimering med dartkast du [her](dag1/pi_estimering_kompendie.pdf)
+ * Materiale fra live-kodingen finner du [her](dag1/live-koding)
 
 ### Bonusmateriale
  * Bonusoppgaver sortert etter fag på VGS finner du [her](bonus/faglig_relevante_oppgaver.pdf)
