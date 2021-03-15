@@ -184,7 +184,6 @@ def hent_uniform_data(data, tid_mellom_målinger_s=5):
 
 
 def last_rådata_gpslogger(datafil):
-    breakpoint()
     data = read_csv(datafil).set_index('time')
     data.index = to_datetime(data.index)
     data = data[data['provider'] == 'gps']  # Bruk kun rander hvor posisjonsdata kommer fra GPSen
