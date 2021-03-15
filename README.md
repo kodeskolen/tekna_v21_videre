@@ -35,3 +35,32 @@ En gjennomgang av disse finner du i [materialet for tidligere kurs](https://gith
 [del 2](https://github.com/kodeskolen/tekna_h20_intro/blob/master/dag2/Kompendium%20dag%202.pdf) av materialet inneholder også kode og forklaring for hvordan man kan gå fra gjettelek til numerisk løsning av likninger med halveringsmetoden.
 
 Hvis du ikke deltok på introkurset anbefales det å ta en titt på kompendiet og de tilhørende oppgavesamlingene. Oppgavesamlingene (med fasit) finner du [her](https://github.com/kodeskolen/tekna_h20_intro/tree/master/dag1) og [her](https://github.com/kodeskolen/tekna_h20_intro/tree/master/dag2)
+
+## Apper for GPS-logging
+Vi har funnet to open-source apper for å logge GPS-spor med telefonen. En for iPhone og en for Android.
+ * iPhone: [Open GPX Tracker](http://www.merlos.org/iOS-Open-GPX-Tracker/)
+ * Android: [Open GPS Tracker](https://play.google.com/store/apps/details?id=nl.sogeti.android.gpstracker&hl=en&gl=US)
+
+## Ekstra Ressurser:
+Her har vi samlet et knippe resurser som kan være nyttige som ekstra trening eller som inspirasjon for realfagsrelevante programmeringseksempler. 
+
+[Kodeskolen VGS kurs](https://github.com/kodeskolen/vgs)
+Materiale for et 5 dagers kurs arrangert av Kodeskolen våren 2019. 
+
+[Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
+En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python programmering ved UiO.
+
+[Oppgavesamling i fysikk](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20fysikk.pdf)
+Disse oppgavene er laget som et supplement til "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser". Det er Fysisk Institutt som står bak oppgavesettet og ideen bak det var å lage en samling fysikkrelaterte oppgaver. Oppgavesettet kan derfor være en fin kilde til inspirasjon for fysikkrelevante programmeringsoppgaver.
+
+[Oppgavesamling i kjemi](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20kjemi.pdf)
+Disse oppgavene er laget som et supplement til introduksjonsemne i python programmering ved UiO. Oppgavene er laget for å gi kjemistudenter ved UiO relevante eksempler som kombinerer programmering og kjemi. Oppgavesettet kan derfor være en fin kilde til inspirasjon for kjemirelevante programmeringsoppgaver.
+
+[Oppgavesamling i geo](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20geo.pdf)
+Denne oppgavesamlingen inneholder programmeringsoppgaver i Python som er relevante for geofagstudenter ved UiO
+
+[Oppgavesamling fra Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20fra%20Langtangen.pdf)
+Oppgavesamling fra “A Primer on Scientific Programming with Python” av H. P. Langtangen. Boken brukes som lærebok i "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Oppgavesettet inneholder grunnleggende programmeringsoppgaver med naturvitenskapelige anvedelser. Koden i boka er for Python 2.7, men oppgavene kan løses med Python 3.
+
+[Ekstra oppgavesamling til Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Ekstraoppgaver%20til%20Langtangen.pdf)
+En samling supplementerende oppgaver for Langtangens bok.
