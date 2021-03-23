@@ -40,6 +40,13 @@ Hvis du ikke deltok på introkurset anbefales det å ta en titt på kompendiet o
 Vi har funnet to open-source apper for å logge GPS-spor med telefonen. En for iPhone og en for Android.
  * iPhone: [Open GPX Tracker](http://www.merlos.org/iOS-Open-GPX-Tracker/)
  * Android: [Open GPS Tracker](https://play.google.com/store/apps/details?id=nl.sogeti.android.gpstracker&hl=en&gl=US)
+ 
+## Notat om innlasting av GPX filer for numerisk derivasjon.
+Distanse-finner biblioteket velger automatisk det første sporet i en GPX fil, men det kan hende det er flere spor i fila. Hvis for eksempel det førstet sporet er tomt vil du da få en feilmelding selv om du har målinger i et annet spor. Dette kan du komme rundt ved å manuelt si hvilket spor du vil se på med `track` argumentet. Her er et eksempel hvis du vil laste inn spor nummer 2 (indeks 1):
+
+```python
+tidspunkt_s, distanser_km = last_uniform_data(datafil, dt, track=1)
+```
 
 ## Ekstra Ressurser:
 Her har vi samlet et knippe resurser som kan være nyttige som ekstra trening eller som inspirasjon for realfagsrelevante programmeringseksempler. 
